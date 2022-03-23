@@ -4,34 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18202235e5e6b091",
+        "id": "b0c150228dbe1be5",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TED/TED 2013-10-03.md",
+            "file": "田静长难句/语法导学及长难句介绍.md",
             "mode": "preview"
-          }
-        },
-        "group": "96264d9bf46f1590"
-      },
-      {
-        "id": "541858bd6ed60469",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 1,
-              "id": "BV1Gf4y1y7wc",
-              "src": "https://www.bilibili.com/video/BV1Gf4y1y7wc?p=2#t=115.874488",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1Gf4y1y7wc&page=2&high_quality=1&danmaku=0",
-              "hash": "#t=115.874488"
-            },
-            "currentTime": 0
-          }
-        },
-        "group": "96264d9bf46f1590"
+          },
+          "pinned": true
+        }
       }
     ],
     "direction": "vertical"
@@ -75,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TED/TED 2013-10-03.md",
+                "file": "田静长难句/语法导学及长难句介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +104,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "18202235e5e6b091",
+  "active": "b0c150228dbe1be5",
   "lastOpenFiles": [
+    "田静长难句/语法导学及长难句介绍.md",
     "TED/TED 2013-10-03.md",
-    "TED/TED 2013-10-01.md",
     "词根词缀/5天1万词（2）.md",
+    "TED/TED 2013-10-01.md",
     "英国.md",
     "词根词缀/元音大推移.md",
     "词根词缀/5天1万词（1）.md",
     "词根词缀/格林定律.md",
     "马克思主义的创立和发展.md",
-    "马克思主义的鲜明特征和当代价值.md",
-    "词根词缀/萨宾L.md"
+    "马克思主义的鲜明特征和当代价值.md"
   ]
 }
