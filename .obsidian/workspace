@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b0c150228dbe1be5",
+        "id": "aed1c72b5c19c62c",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "田静长难句/语法导学及长难句介绍.md",
+            "file": "田静长难句/简单句的核心构成.md",
             "mode": "preview"
           },
           "pinned": true
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 214,
+    "collapsed": true
   },
   "right": {
     "id": "f65ed5dc427260ee",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "田静长难句/语法导学及长难句介绍.md",
+                "file": "田静长难句/简单句的核心构成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +105,9 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "b0c150228dbe1be5",
+  "active": "aed1c72b5c19c62c",
   "lastOpenFiles": [
+    "田静长难句/简单句的核心构成.md",
     "田静长难句/语法导学及长难句介绍.md",
     "TED/TED 2013-10-03.md",
     "词根词缀/5天1万词（2）.md",
@@ -114,7 +116,6 @@
     "词根词缀/元音大推移.md",
     "词根词缀/5天1万词（1）.md",
     "词根词缀/格林定律.md",
-    "马克思主义的创立和发展.md",
-    "马克思主义的鲜明特征和当代价值.md"
+    "马克思主义的创立和发展.md"
   ]
 }
