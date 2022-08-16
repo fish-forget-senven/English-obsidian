@@ -4,7 +4,7 @@
   "showLineNumber": true,
   "readableLineLength": false,
   "newFileLocation": "current",
-  "legacyEditor": true,
+  "legacyEditor": false,
   "livePreview": true,
   "defaultViewMode": "preview"
 }
