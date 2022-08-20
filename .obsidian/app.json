@@ -6,5 +6,6 @@
   "newFileLocation": "current",
   "legacyEditor": false,
   "livePreview": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "newLinkFormat": "relative"
 }
