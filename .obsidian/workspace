@@ -4,29 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "14190e795bf75a39",
+        "id": "0873cab47e6850bf",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "句句真研/Part2 长难句/第二章 复合句/第三节 状语从句.md",
-            "mode": "source",
+            "file": "句句真研/Part2 长难句/第二章 复合句/第二节 定语从句.md",
+            "mode": "preview",
             "source": false
           },
           "pinned": true
         }
       },
       {
-        "id": "0558a5e68cce5e66",
+        "id": "6e9cd8b10b41f661",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "句句真研/Part2 长难句/第二章 复合句/第二节 定语从句.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -54,11 +50,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(# 非限定)",
+                "query": "line:(# 同位语从句)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -71,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句句真研/Part2 长难句/第二章 复合句/第三节 状语从句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "句句真研/Part2 长难句/第二章 复合句/第三节 状语从句.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -129,17 +121,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "14190e795bf75a39",
+  "active": "6e9cd8b10b41f661",
   "lastOpenFiles": [
+    "句句真研/Part2 长难句/第三章 特殊句式/第二节 强调.md",
     "句句真研/Part2 长难句/第二章 复合句/第二节 定语从句.md",
     "句句真研/Part2 长难句/第二章 复合句/第三节 状语从句.md",
     "句句真研/Part2 长难句/第二章 复合句/第一节 名词性从句.md",
-    "句句真研/Part2 长难句/第一章 并列句/并列句的省略.md",
+    "句句真研/Part1 简单句/第二章 简单句的扩展/第二节 成分角度的扩展.md",
+    "句句真研/Part2 长难句/第三章 特殊句式/第一节 倒装.md",
     "句句真研/Part2 长难句/第一章 并列句/并列句的构成.md",
+    "句句真研/Part2 长难句/第一章 并列句/并列句的省略.md",
     "句句真研/Part1 简单句/第一章 简单句的核心/第一节 简单句的核心构成.md",
-    "句句真研/Part1 简单句/第一章 简单句的核心/主语、宾语、表语的变化.md",
-    "句句真研/Part2 长难句/第二章 复合句/导论.md",
-    "句句真研/Part2 长难句/第一章 并列句/真题演练.md",
-    "句句真研/Part2 长难句/第一章 并列句/考场攻略.md"
+    "句句真研/Part1 简单句/第一章 简单句的核心/主语、宾语、表语的变化.md"
   ]
 }
