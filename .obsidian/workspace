@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3a0eadc0930e1a18",
+        "id": "1271393d96e3e072",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "句句真研/Part3 长难句分析/第一章 基本结构的长难句分析/第二节 简化长难句.md",
-            "mode": "source",
+            "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(省略 主语 从句)",
+                "query": "line:(folk)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句句真研/Part3 长难句分析/第一章 基本结构的长难句分析/第二节 简化长难句.md",
+                "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句句真研/Part3 长难句分析/第一章 基本结构的长难句分析/第二节 简化长难句.md"
+                "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md"
               }
             }
           }
@@ -114,17 +114,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "3a0eadc0930e1a18",
+  "active": "1271393d96e3e072",
   "lastOpenFiles": [
-    "句句真研/Part3 长难句分析/第一章 基本结构的长难句分析/第一节 断开长难句.md",
+    "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第二节 嵌套结构.md",
+    "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第一节 分裂结构.md",
+    "句句真研/Part3 长难句分析/未命名.md",
     "句句真研/Part3 长难句分析/第一章 基本结构的长难句分析/第二节 简化长难句.md",
+    "田静长难句/第一部分 简单句/第一章 简单句的核心/简单句的核心构成.md",
+    "句句真研/Part3 长难句分析/第一章 基本结构的长难句分析/第一节 断开长难句.md",
     "句句真研/Part2 长难句/第三章 特殊句式/第三节 虚拟.md",
     "句句真研/Part2 长难句/第二章 复合句/第一节 名词性从句.md",
     "句句真研/Part2 长难句/第二章 复合句/第二节 定语从句.md",
-    "句句真研/Part2 长难句/第一章 并列句/并列句的省略.md",
-    "句句真研/Part2 长难句/第一章 并列句/内容小结.md",
-    "句句真研/Part2 长难句/第一章 并列句/考场攻略.md",
-    "句句真研/Part2 长难句/第三章 特殊句式/第二节 强调.md",
-    "句句真研/Part3 长难句分析/第一章 基本结构的长难句分析/导论.md"
+    "句句真研/Part2 长难句/第一章 并列句/并列句的省略.md"
   ]
 }
