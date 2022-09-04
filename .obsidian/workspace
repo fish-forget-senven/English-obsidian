@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1271393d96e3e072",
+        "id": "ffb04e746291c903",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md",
-            "mode": "source",
+            "file": "外刊/饥荒和疾病驱动人类消化牛奶.md",
+            "mode": "preview",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -40,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(folk)",
+                "query": "hypotheses",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,14 +80,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md",
+                "file": "外刊/饥荒和疾病驱动人类消化牛奶.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,29 +105,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md"
+                "file": "外刊/饥荒和疾病驱动人类消化牛奶.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 268,
     "collapsed": true
   },
-  "active": "1271393d96e3e072",
+  "active": "ffb04e746291c903",
   "lastOpenFiles": [
-    "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第二节 嵌套结构.md",
-    "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第一节 分裂结构.md",
-    "句句真研/Part3 长难句分析/未命名.md",
-    "句句真研/Part3 长难句分析/第一章 基本结构的长难句分析/第二节 简化长难句.md",
-    "田静长难句/第一部分 简单句/第一章 简单句的核心/简单句的核心构成.md",
-    "句句真研/Part3 长难句分析/第一章 基本结构的长难句分析/第一节 断开长难句.md",
-    "句句真研/Part2 长难句/第三章 特殊句式/第三节 虚拟.md",
-    "句句真研/Part2 长难句/第二章 复合句/第一节 名词性从句.md",
     "句句真研/Part2 长难句/第二章 复合句/第二节 定语从句.md",
-    "句句真研/Part2 长难句/第一章 并列句/并列句的省略.md"
+    "外刊/饥荒和疾病驱动人类消化牛奶.md",
+    "生词本/domestication.md",
+    "生词本/lactase.md",
+    "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md",
+    "生词本/archaeological.md",
+    "生词本/collate.md",
+    "生词本/lactose.md",
+    "生词本/genomics.md",
+    "生词本/potsherd.md"
   ]
 }
