@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "词根词缀/单词之间（2023）/课件/Day01.md",
+            "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md",
             "mode": "preview",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "词根词缀/单词之间（2023）/课件/Day01.md"
+            "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md"
           }
         },
         "group": "d3c38d7867b699b5"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(真实 OR 真正)  path:单词之间",
+                "query": "line:(dwell)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "词根词缀/单词之间（2023）/课件/Day01.md",
+                "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "词根词缀/单词之间（2023）/课件/Day01.md"
+                "file": "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md"
               }
             }
           }
@@ -127,8 +128,8 @@
   },
   "active": "19a2ff43c1f9986e",
   "lastOpenFiles": [
-    "词根词缀/单词之间（2023）/课件/Day02.md",
     "词根词缀/单词之间（2023）/课件/Day01.md",
+    "词根词缀/单词之间（2023）/课件/Day02.md",
     "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md",
     "生词本/collate.md",
     "生词本/domestication.md",
