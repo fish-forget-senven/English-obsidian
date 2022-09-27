@@ -1,0 +1,259 @@
+# -able- 能够
+- enable%%6%%
+	- 【I'nerbl】v.使能够，使成为可能记
+	- 【记】en（使动）+able→v.使能够，使成为可能
+	- 【考】enable sb. to do sth.使某人能够做某事
+	- 【真】A “Fun Card” enables the casino to track the user's gambling activities.【2006 年新题型】
+	- 【译】赌场里的“游乐卡”可以使赌场追踪使用者的赌博活动。
+- disable%%2%%
+	- 【drs'erbl】v．使无能：使残疾；使无效；使不能运转
+	- 【记】dis（否定）＋able→“能力被否定”→使无能；使残疾；使无效；使不能运转
+	- 【派】disabled【dis'erbld】有残疾的，有缺陷的 
+# -ab-否定，不
+- abolish%%4%%
+	- v.废除；取消
+	- 【记】ab+ol（无义）+ish（v.）→“不要，否定的动作”→v.废除；取消
+	- 【助】a（一）＋bo（谐音“破”)+lish（谐音“历史”）→“一部破历史”；曾经的三妻四妾，曾经的裹是，曾经的男尊女卑，是一部部破历史，所以需要→v.废除；取消
+	- 【真】Bolivar had received aid from Haiti and had promised in return to abolish slavery in the areas he liberated.【2007年完形】
+	- 【译】玻利瓦尔得到了海地的援助，作为回报，他承诺在自己解放的地区废除奴隶制
+- absurd%%2%%
+	- 【əb's3:d】a.不合理的，荒谬的 
+	- 【记】ab+surd（改写自sound；合理的）→a.不合理的，荒谬的
+- abuse%%5%%
+	- 【a'bju:z】  【a'bju:s】 v.&n.滥用；辱骂；虚待
+	- 【记】ab+use （使用）→“不好好使用”→v.&n.滥用→“不好好使用语言”→v.&n.辱骂→“不好好使用行为”→v.&n.虐待
+	- 【近】mistreat v.（尤指在身体上）虐待
+	- 【考】drug abuse药物滥用 child abuse虐待儿童
+	- 【真】the growing incidence of child abuse and child neglect  【2004年完形】
+	- 【译】虐待儿童及对儿童疏于照顾的事件逐年增加
+# -academy-学院
+- academy%%6%%
+	- 【ə'kædəmi】n.学院
+	- 【记】柏拉图曾在雅典城外的Academus建立学园，这是欧洲历史上第一所传授知识、进行学术研究，提供政治咨询、培养学者和政治人才的综合性学校。这座学园持续存在达900年之久，直至东罗马皇帝下令将其关闭，后来西方各国的主要学术研究院都沿袭它的名称，即Academy→学院
+	- 【真】The president of the National Academy，Bruce Alberts，added this key point in the preface to the panel's report：“Science never has all the answers．”【2005年阅读 Text2】 
+	- 【译】国家科学院院长布鲁斯·艾伯特在专家组报告的序言中加上了很重要的一点：“科学无法解答所有的问题”
+- academic%%30%%
+	- 【ækə'demik】 a.学术的；学院的 n.大学教师；高校科研人员；学者
+	- 【记】上词academy的形容词：academ（简写自 academy）+ic（a.）→a.学术的； 学院的→“与学术，学院相关的人员”→n.大学教师：高校科研人员；学者
+	- 【派｜academically ad. 【.æko demikli】学习上，学业上  academics【.æko'demiks】 学习，学术、学者
+	- 【真】Unfortunately，L.A.Unified has produced an inflexible policy which mandates that with the exception of some advanced courses,homework may no longer count for more than 10％ of a student's academic grade．【英语二2012年阅读Text1】
+	- 【译】不幸的是，洛杉矶联校制定了一项硬性政策，这个政策规定除了一些高级课程外，家庭作业占学生学业成绩的比重不能超过10％
+# -act-、-ag-行动，作用；表演，表现；法案，法令
+- action%%28%%
+	- 【'ekfn】 n.行动,活动
+	- 【记】act+ion (n.)→n.行动,活动
+	- 【考】 take action采取行动 in action在活动，在运转
+	- 【真】Malcolm Gladwell argues that “social epidemics" are driven in large part by the actions of a tiny minority of special individuals, often called influentials, who are unusually informed, persuasive, or well connected. 【英语一2010 年阅读Text 3】
+	- 【译】马尔科姆·格拉德威尔指出，“社会潮流”在很大程度上是由极少数特殊
+	个体的行为推动的，这些特殊个体通常被称为有影响力的人，他们要么见多识广，要么具有非凡的说服力，要么拥有极其广泛的人脉
+- active %%16%%
+	- 【'ektiv】 a.活跃的;积极的
+	- 【记 】act+ive （a）→小男孩“动来动去”→a.活跃的→遇到问题总是“行动”而不是抱怨→积极的
+	- 【派】 activist 【'ektivist】积极分子，活跃分子
+	- 【考】 be active in.对…… 很积极
+	- 【真】 The brain is as active during REM (rapid eye movement) sleep——when most vivid dreams occur——as it is when fully awake. 【2005年阅读 Text 3】
+	- 【译】大脑在快速眼动睡眠时（大多数逼真的梦境出现时）与清醒时同样活跃
+- activate%%3%%
+	- 【'ektivert】 v.使活动,使行动;刺激,激活
+	- 【记】act+iv (无义)+ate (v.)"act加1个动词后级ate”→使活动,使行 动→“使之行动起来”→刺激，激活
+	- 【真】 【D】 curiosity activates creative minds 【 2009年阅读Text 1 24题D选项】
+	- 【译】【D】好奇可以激发创新思维
+- activity%%7%%
+	- 【ek'tivatı】 n.行动,活动
+	- 【记】上词activate的名词； act+iv （无义）+ity （n.）→一群人的“行动”→n.行动，活动
+	- 【真】 But his primary task is not to think about the moral code which governs his activity. I【2006年翻译】
+	- 【译】但是，他的首要任务并不是思考支配其行为的道德规范
+- actual%%30%%
+	- 【'ektfual】 a.真实的,实际的
+	- 【记】 act+u （无义）+al （n） →经过“行动，实践”得出的便是→a.真实的，实际的
+	- 【派】actually  ad.【aektfuoli】实际上,事实上
+	- 【考】 in actual fact 实际上
+- react %%30%%
+	- 【rr'ekt】 v.反应；反作用
+	- 【记】 re（back） +act→反应；反作用
+	- 【派】 rcaction n. 【ri'akfn】反应;反作用  reactor n. 【ri'ekto(r)】核反应堆  overreact  v.【.ouvori'ekt】 反应度  overreaction n. 【,oovori'akfin】过度反应
+	- 【考】react to..对…… 有反应；对…… 有反作用
+	- 【真】 Advances in technology have allowed mass-market labels to react to trends more quickly and anticipate demand more precisely.【英语- 2013年阅读Text 1】
+	- 【译】科技的进步使得大众市场的品牌能够对时尚潮流更加快速地做出反应，并能更准确地预见人们的需求
+- exact%%11%%
+	- 【Ig'zaekt】 a.真实的；精确的，准确的
+	- 【记】 ex（out） +act→“行动，实践”出真知→真实的→何为真实数据？→a.精确的，准确的
+	- 【派】 exactly ad. 【1g'zaktli】精确地,确切地,恰恰
+	- 【真】 The rise of anti-happy art almost exactly tracks the emergence of mass media. 【 2006 年阅读Text 4】
+	- 【译】反快乐艺术几乎紧随着大众媒体的出现而产生
+- interact%%18%%
+	- 【,Intar'ekt】 v.相互作用,相互影响
+	- 【记】 inter （between；彼此，互相）+act→：相互作用，相互影响
+	- 【派】 interaction n. 【,Intor'ekfn】 相互影响,互动 interactive【.Intar'aktiv】相互 影响的，互动的
+	- 【考】interact with...与 相互作用/相互影响
+	- 【真】 In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback: The child becomes increasingly distressed as she tries to capture her mother's attention. 【英语二 2017年阅读Text 2】
+	- 【译】实验中，我们要求一位母亲先与她的孩子正常交流互动，然后摆出一副冷冰冰的表情并且不给孩子任何视觉上的社交反馈，结果孩子在试图获取母亲的关注的过程中变得越来越痛苦。
+- transaction %%7%%
+	- 【traen'zaekfn】 n.处理,办理;交易(熟词僻义,重点关注)
+	- 【记】 trans （across） +act+ion （n.）→人“穿梭”于各地，不停“行动”→难道不是忙于处理、办理事务的意思吗？→n.处理，办理；交易
+	- 【真】 【B】 It involves a very big business transaction. 【英语- 2010 年阅读Text 2 27 题B选项】
+	- 【译】【B】它涉及一笔重大的商业交易
+- enact%%4%%
+	- 【I'naekt】 v. 通过（法律）
+	- 【记】en（使动）+act（n.法案）→ “使之成为法案”→：通过（法律）
+	- 【派】 enactment n. 【I'nektmont】制定,通过
+	- 【真】 The key messages that have been put together for World Environment Day do include a call for governments to enact legislation to curb single-use plastics. 【英语 2019年 阅读Text 4】
+	- 【译】为世界环境日汇集的关键信息确实包括呼吁各国政府须布立法从而能够限制一次性塑料
+- agent%%41%%
+	- 【'eidzant】 n.代理人，代理商 a.代理的
+	- 【记】 ag+ent （表示人的后缀）→“代理人和代理商”是不是给钱之后“行动，做事，起作用的人”呢？比如代理某种产品→n.代理人，代理商 a.代理的
+	- 【派】 agency n. 【'eidzonsi】代理处,代理机构,中介 【考】 search agent搜索代理、搜索引繁
+	- 【真】 When CareerSite's agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs-those it considers the best matches.【 2004 年阅读 Text 1】
+	- 【译】例如， CareerSite的代理给注册其服务的用户发送信息时，只提供三份它认为最匹配的潜在的工作
+- agenda
+	- 【a'dzenda】 n.（政治）议程；议事日程；目的（熟词僻义，重点关注）
+	- 【记】 ag+en（使动）+da（简写自day：天）→“每天的行动”→n.（政治）议程；议事日程；目的
+	- 【真】And since these messages have an agenda——to lure us to open our wallets——they make the very idea of happiness seem unreliable. 【 2006 年阅读 Text 4 】
+	- 【译】由于这些信息都有一个目的，即诱使我们掏钱消费，所以使得快乐这个概念变得不再可靠。
+- agitate
+	- 【'aedzitert】 v.鼓动,编动,搅动,使不安
+	- 【记】 ag+it+ate （v.）→“使民众行动起来”→v.鼓动，煽动，搅动，使不安
+- agony
+	- 【'eganagonyi】 n.(精神或肉体的)极大痛苦,创伤
+	- 【记】因为参加“赛会” （agon）而产生的心理压力和痛苦在希腊语中就被称为agonia，后来直接进入拉丁语，最终演变为英语单词agony→n.（精神或肉体的）极大痛苦，创伤
+	- 【助】谐音“爱割你”→n.（精神或肉体的）极大痛苦，创伤
+	- 【派】 agonize  v.【'agonaiz】使痛苦,使折磨 agonizing 【'agonaizın】 a.痛苦难忍 的，使人苦恼的，使痛苦，使折磨（agonize的现在分词）
+	- 【真】Modern medicine has prolonged the physical agony of dying. 【 2002年阅读 Text 4】
+	- 【译】现代医学延长了死亡前肉体的痛苦
+# -acu-、-acr-尖锐，锐利：sharp锋利的，敏捷的。
+- acute
+	- [ə'kju:t] a.尖的；敏锐的；急性的；（情况）严重的；（感觉）强
+	- 烈的 
+	- 【考频】近13年考试出现3次
+	- 【记法】acu＋te（a.）→a.尖的；敏锐的→“尖锐的”病，瞬间能使人死亡→a.急性的；（情况）严重的；（感觉）强烈的
+	- 【派生词】acutely ad.尖锐地，强烈地 
+	- 【例句】Her judgement is acute. 她的判断敏锐。 
+	- 【真题例句】Powerful memory doesn't make my emotions any more acute or vivid．【英语二2013年翻译】
+	- 【翻译】强大的记忆力并未使我的情感更加强烈或更为鲜明。
+- massacre
+	- ['mæsəkə(r)] v.＆n.屠杀，残杀
+	- 【考频】近13年考试出现2次
+	- 【记法】mass（大量，众多）＋acr＋e（无义）→“大量的人被尖锐之物刺死”→v.＆n.屠杀，残杀
+	- 【例句】The massacre was a crime against humanity. 
+	- 【翻译】这场大屠杀是一桩反人类的罪行。
+# -add-加，增加
+- add
+	- [æd]v.加，增加；补充说
+	- 【考频】近13年考试出现30次
+	- 【例句】Add up all the money I owe you. 把我欠你的钱全部加起来。
+	- 【搭配】
+		- add A to B把A加进B add to增加，加强 
+		- add up to 总计 达，总共是；意味着
+		- sb. add that某人补充说
+- addition
+	- [ufip.e]n.加，增加，增加的人或事物
+	- 【考频】近13年考试出现14次
+	- 【记法】add＋i（无义）＋tion（n.）→n.加，增加，增加的人或事物
+	- 【派生词】additional a.附加的，额外的，另外的
+	- 【例句】There is, in addition, one further point to make. 此外，还有一点要说。
+	- 【真题例句】In addition, new digital technologies have allowed more rapid trading of equities．【英语-2019年阅读Text 1】此外，新的数字科技使得股票交易更快速。
+	- 【搭配】in addition 另外，此外 in addition to除......之外 
+# -aer-、-air-空气，天空
+- aerial
+	 - [ierieə]a.空中的，航空的
+	- 【考频】近13年考试出现2次
+	- 【记法】aer+ial（a.）→a.空中的，航空的
+	- 【例句】They sat in an aerial dwelling, and it flew with them through the air.他们坐在一个空中的房子里，房子和他们一起在空中飞行。
+- airline
+	- ['ealam]n.航线，航空公司
+	- 【考频】近13年考试出现7次
+	- 【记法】air＋line（n.线）→n.航线，航空公司 
+	- 【例句】The airline industry took a hit last year. 去年航空业受到了严重冲击。
+	- 【真题例句】It is not yet clear how much more effective airline security has become-but the lines are obvious．【英语-2017年阅读 Text 1】目前尚不清楚机场安检的效率到底提高了多少—但是安检前排起的长队却是显而易见的。
+- airport
+	-  [:cdeə]n.机场
+	- 【考频】近13年考试出现7次
+	- 【记法】air＋port（n.港口）→“空港”→n.机场
+	- 【例句】Will you meet me at the airport? 你到机场接我好吗？
+	- 【真题例句】at major airports such as Chicago's O' Hare International【英语—2017年阅读Text 1】像芝加哥奥黑尔国际机场这样的大型机场
+# -alter-改变：词根alter——可以直接形成单词alter，不过它变成了一个动词，字面意思就是“变成另一个，变成其他的”，引申为“改变、更改”。
+- alter
+	- ['o:ltə(r)]v.改变，更改，改动
+	- 【考频】近13年考试出现8次
+	- 【例句】It doesn't alter the way I feel. 这并没有改变我的感受。
+	- 【真题例句】They could still invalidate Fourth Amendment protections when facing severe,urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while waiting for a warrant．【英语一2015年阅读 Text 2】当面临严重且紧急的情况时，他们依然可以不受第四修正案保护条款的约束，并且他们在等待搜捕令的时候，也能采取合理的措施以确保手机里的数据不被删除或更改。
+- alternate
+	- 【'o:ltənert】【 o:l't3:nət】 v.（使）交替，（使）轮流 a.交替的，轮流的
+	- 【考频】近13年考试出现2次
+	- 【记法】alter＋n（无义）＋ate（v.＆a.）→次序或顺序“改变”→v.（使）交替，（使）轮流 a.交替的，轮流的
+	- 【例句】The volume seems to alternate between very loud and very soft.音量似乎在很响和很轻之间交替。
+- alternative
+	 - [wneu:st.:c]a.可供替代的，备选的 n.可供选择的事物
+	- 【考频】近13年考试出现6次
+	- 【记法】alternat（简写自 alternate；交替，轮流）＋ive（a.＆n.）→ a.可供替代的，备选的 n.可供选择的事物
+	- 【派生词】alternatively ad.二者择一地，或者
+	- 【例句】There are alternative sources of nutrition to animal meat. 有能替代动物肉类的其他营养来源。
+	- 【真题例句】［A］ Alternatives to conventional paid media．【英语-2011年 阅读Text 3 35题A选项】［A］传统付费媒介的替代品。
+# -anci-、-ance-古老，前，过去：ancient a.古代的，古老的
+- ancient
+	- ['emfənt]a.古代的，古老的
+	- 【考频】近13年考试出现9次
+	- 【记法】anci＋ent（a.）→a.古代的，古老的
+	- 【例句】The town is notable for its ancient harbour. 这座小镇因其古老的港口而出名。
+	- 【真题例句】Ancient Greek philosopher Aristotle viewed laughter as “a bodily exercise precious to health．”【英语——2011年完形】古希腊哲学家亚里士多德认为笑是“一种对健康极为重要的身体运动”。
+- ancestor
+	- ['ænsestə(r)]n.祖宗，祖先，先驱
+	- 【考频】近13年考试出现10次
+	- 【记法】ance＋st（无义）＋or（表示人的后缀）→“前面的人，以前的人”→n.祖宗，祖先，先驱
+	- 【派生词】
+		- ancestry n.（统称）祖宗，祖先
+		- ancestral a.祖先的
+	- 【例句】My ancestor was a preacher,traveling around the countryside. 我的祖先是一个在乡村旅行的传教士。
+	- 【真题例句】When our ancestors were hunters and gatherers 10,000 years ago, they didn't have time to wonder much about anything besides finding food．【2009年阅读Text 3】一万年前，当我们的祖先还靠打猎和采集为生时，除了寻找食物，他们没有时间考虑其他事情。
+# -ann-、-enn-年：来自拉丁语的ann意为year，气元音弱化后变成enn。
+- annual
+	- ['ænjuəl]a.每年的 n.年刊
+	- 【考频】近13年考试出现13次
+	- 【记法】ann+u（无义）＋al（a.＆n.）→“一年一次”→a.每年的 n.年刊
+	- 【派生词】annually ad.每年一次地，一年一度地
+	- 【例句】Annual boarding fees are $10,350. 每年的住校费是10，350美元。
+	- 【真题例句】Soccer-mad parents are more likely to conceive children in springtime， at the annual peak of soccer mania．【2007年阅读 Text 1】
+	- 自身是铁杆球迷的父母更有可能在春季怀孕，因为那是一年中足球狂热的巅峰季节。
+- millennial
+	- [mr'leniəl]n.千禧—代a.一千年的
+	- 【考频】近13年考试出现8次
+	- 【记法】mill（千，千分之一）＋enn＋ial（n.＆a.）→“千年”→n.千 禧一代a.一千年的
+	- 【派生词】millennium n.一千年，千禧年
+	- 【例句】As Millennial women come of age they share many of the same views and values about work as their male counterparts. 随着千禧一代女性步入成年，她们对工作的看法和价值观与男性同龄人有许多相同之处。
+	- 【真题例句】If“entitled” is the most common adjective, fairly or not, applied to millennials(those born between 1981 and 1995),the catchwords for Generation Z are practical and cautious.【英语 二2020年阅读Text 4】无论公平与否，如果“有权”是千禧一代（那些生于1981年至1995年之间的人）最常见的形容词，那么Z一代的流行语是实用而谨慎。
+# -auct-、-aug-大：词根来自于拉丁语的aug，auct意为to increase，to make to grow.
+- auction
+	- ['o:kfn]n.＆v.拍卖，竞卖
+	- 【考频】近13年考试出现8次
+	- 【记法】auct+ion(n.&v.)→价格不断“变大”→n.＆v.拍卖，竞卖
+	- 【派生词】auctioneer n.拍卖人，拍卖商
+	- 【例句】Gene clerked at the auction. 吉恩在拍卖行做文书工作。
+	- 【真题例句】Within weeks the world's two biggest auction houses, Sotheby's and Christie's, had to pay out nearly $200m in guarantees to clients who had placed works for sale with them. 【英语二2010年阅读Text 1】几周之内，世界上两家最大的拍卖行—苏富比和佳士得，不得不支付近两亿美元给那些早已把作品交给他们出售的客户，以作担保。
+- augment
+	- [p:g'ment]n.＆v.增加，增大
+	- 【考频】近13年考试出现2次
+	- 【记法】aug＋ment（n.＆v.）→“变大”的动作→n.＆v.增加，增大
+	- 【例句】While searching for a way to augment the family income, she began making dolls.为求增加家庭收入，她开始做起了玩具娃娃。
+# -aud-、-audi-听见：audi，audit＝hear，表示“听”“听见”。 
+- audio
+	- [neip:c]n.音频 a.声音的，音频的
+	- 【考频】近13年考试出现2次
+	- 【记法】audi+o（n.＆a.）→“听见的东西”→n.音频 a.声音的，音频的
+	- 【例句】This digital audio player supports multiple formats. 这台数字音频播放器支持多种格式。
+- audience
+	- [sueip:c]n.听众，观众
+	- 【考频】近13年考试出现8次
+	- 【记法】audi＋ence（n.）→“听......的人”→n.听众，观众
+	- 【例句】The audience was nearly all men. 观众几乎全都是男的。
+	- 【真题例句】If Gilbert and the Philharmonic are to succeed, they must first change the relationship between America's oldest orchlestra and the new audience it hopes to attract．【英语-2011年阅读 Text 1】如果吉尔伯特和纽约爱乐乐团想要成功，就必须首先改变美国最古老的乐团（即纽约爱乐乐团）与它想吸引的新观众之间的关系。
+- audit
+	- ['o:dit]v.＆n.旁听；审计
+	- 【考频】近13年考试出现2次
+	- 【记法】aud＋it（它）→“听它”；这个“它”不一样，意思也就不同：如果是其他专业的课程，就是“旁听”；如果是账目、报表，就是会计里面的“审计”→v.＆n.旁听；审计
+	- 【派生词】 auditor n.审计员
+	- 【例句】List of possible audit types. 可能的审计类型列表。
+- aural
+	- [re.i:c]a.听力的，听觉的
+	- 【考频】近13年考试出现2次
+	- 【记法】aur（改写自ear；耳朵）＋al（a.）→a.听力的，听觉的
+	- 【例句】Seven hierarchical exercises were designed to improve aural phonetic reception in these children.七个层次练习是为了改善这些孩子的听觉语音接收能力。

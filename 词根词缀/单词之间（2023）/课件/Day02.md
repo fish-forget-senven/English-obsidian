@@ -1,0 +1,71 @@
+# -auth-作者，权威： author n.作者，著作人
+- author
+	- [':θa(r)]n.作者，著作人
+	- 【考频】近13年考试出现124次
+	- 【例句】Who is your favourite author? 你最喜欢哪位作家？
+- authority
+	- [:'θpratı]n.权威，权力；官方，当局
+	- 【考频】近13年考试出现8次
+	- 【记法】author+ity （n.）→“作者对自己的书最有发言权”，是这方面的→n.权威，权力→“最有权威的是”→n.官方，当局
+	- 【例句】Her speech carried the ring of authority. 她的讲话带着权威的口吻。
+	- 【真题例句】The legal issues in the case are obscure: whereas the Supreme. Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Vermont case will offer a precedent-setting test of how far those powers extend. 【英语一2012年阅读Text 2】该事件涉及的法律问题很模糊，尽管最高法院已经规定，各州确实对核能有一定的监管权，但法律学者声称，佛蒙特案件会成为考量州政府核能监管权延伸范围的先例。
+	- 【搭配】have authority over.有力
+- authorize
+	- ['3:araız]v.授权；批准
+	- 【考频】近13年考试出现5次
+	- 【记法】上词authority的动词； author+ize （使动）→“使之有权威、权力”→v.授权；批准
+	- 【派生词】authorization n.授权,批准,授权书unauthorized a.未经许 可的，未经批准的
+	- 【例句】The Wilderness Society lobbied Congress to authorize the Endangered Species Act.荒野协会游说国会批准《濒危物种法》
+	- 【真题例句】[B] check suspects' phone contents without being authorized 【英语—2015年阅读Text 2 26题B选项】[B]在没有授权的情况下翻查嫌犯手机里的内容
+	- 【搭配】be authorized by……被……授权/批准
+- authentic
+	- [: θentık]a.真的，真正的；可信的
+	- 【考频】近13年考试出现4次
+	- 【记法】auth+ent (a.) +ic (a.)→“作者权威的观点”→a.真的,真, 正的；可信的
+	- 【派生词】authenticate v. 证明是真实的
+	- 【例句】She has authentic charm whereas most people simply have nice manners.她有真正的魅力，而大多数人只是有礼貌而已。
+# -a-、-a辅（除了ab）-①“'a-'＝'to'，表加强，强调：不”、“无”、“非”（ab除外）；②“在…的，的”如aside在边上，asleep睡着的。 
+- abandon
+	- [ə'bændən]v.放弃，抛弃，丢弃
+	- 【考频】近13年考试出现9次
+	- 【记法】a （to） ＋ban（禁止）＋don（无义）→“因为禁止”，所以要→v.放弃，抛弃，丢弃
+	- 【例句】The captain gave the order to abandon ship. 船长下令弃船
+- accompany
+	- [rueduvy.e]v.陪伴，伴随
+	- 【考频】近13年考试出现4次
+	- 【记法】ac（to）＋company（陪伴，伴随）→v.陪伴，伴随
+	- 【例句】Ken agreed to accompany me on a trip to Africa. 肯同意陪我去非洲旅行。
+	- 【真题例句】In my own research, complaints from women about their husbands most often focused not on tangible inequities such as having given up the chance for a career to accompany a husband．【英语二2010年阅读Text 2】在我自己的研究中，妻子对丈夫的抱怨往往不是侧重于具体的不平等现象，如为了陪伴丈夫放弃自己的就业机会。
+- accuse
+	- [ə'kju:z]v.指责；控告
+	- 【考频】近13年考试出现3次
+	- 【记法】ac（to）＋cuse（谐音“哭死”）→“快哭死了”，因为被人→v.指责；控告
+	- 【派生词】accusation n.指责，谴责；控告
+	- 【例句】His father would accuse him of neglecting his filial duties. 他父亲会指控他没有尽孝。
+	- 【真题例句】Some scholars even accused Boas and Sapir of fabricating their data．【2004年翻译】有些学者甚至指责博厄斯和萨不尔捏造数据。
+	- 【搭配】
+		- accuse sb.of sth.指责／控告某人某事
+		- be accused of 被控告，被起诉
+- accustomed
+	- [ə'kastəmd]a.习惯的，适应的
+	- 【考频】近13年考试出现3次
+	- 【记法】ac（to）＋custom（n.习惯）＋ed（a.）→“去变得习惯”→a. 习惯的，适应的
+	- 【例句】She was a person accustomed to having eight hours' sleep a night.她是那种习惯每晚睡八个小时的人。
+	- 【真题例句】
+		- State governments are well accustomed to managing forests. 【英语二2019年阅读Text 2】
+		- 州政府已经很好地习惯了经营林业。
+	- 【搭配】be accustomed to...习惯于......，适应...... 
+- acknowledge
+	- [ək'nolid3]v.承认
+	- 【考频】近13年考试出现15次
+	- 【记法】ac （to）＋knowledge（知识）→“去学习知识”；承认自己 懂得少→v.承认
+	- 【派生词】
+		- acknowledged a.承认的
+		- unacknowledged a.不被承认的
+	- 【例句】
+		- I did not acknowledge that he had done anything wrong. 
+		- 我没有承认他犯了什么错。
+	- 【真题例句】
+		- As a linguist, he acknowledges that all varieties of human language, including non_x0002_standard ones like Black English, can be powerfully expressive-there exists no language or dialect in the world that cannot convey complex ideas．【2005年阅读Text 4】
+		- 作为一名语言学家，他承认各种人类语言，包括像黑人英语这样的非标准语言，都具有强大的表现力—世界上没有表达不了复杂思想的语言或者方言。
+	- 【搭配】acknowledge that...承认...... 

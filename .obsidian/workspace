@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ffb04e746291c903",
+        "id": "19a2ff43c1f9986e",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "外刊/饥荒和疾病驱动人类消化牛奶.md",
+            "file": "词根词缀/单词之间（2023）/课件/Day01.md",
             "mode": "preview",
             "source": false
-          },
-          "pinned": true
-        }
+          }
+        },
+        "group": "d3c38d7867b699b5"
+      },
+      {
+        "id": "84c0456da69fd82f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "词根词缀/单词之间（2023）/课件/Day01.md"
+          }
+        },
+        "group": "d3c38d7867b699b5"
       }
     ],
     "direction": "vertical"
@@ -42,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypotheses",
+                "query": "line:(真实 OR 真正)  path:单词之间",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "外刊/饥荒和疾病驱动人类消化牛奶.md",
+                "file": "词根词缀/单词之间（2023）/课件/Day01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "外刊/饥荒和疾病驱动人类消化牛奶.md"
+                "file": "词根词缀/单词之间（2023）/课件/Day01.md"
               }
             }
           }
@@ -116,17 +125,17 @@
     "width": 268,
     "collapsed": true
   },
-  "active": "ffb04e746291c903",
+  "active": "19a2ff43c1f9986e",
   "lastOpenFiles": [
-    "句句真研/Part2 长难句/第二章 复合句/第二节 定语从句.md",
-    "外刊/饥荒和疾病驱动人类消化牛奶.md",
-    "生词本/domestication.md",
-    "生词本/lactase.md",
+    "词根词缀/单词之间（2023）/课件/Day02.md",
+    "词根词缀/单词之间（2023）/课件/Day01.md",
     "句句真研/Part3 长难句分析/第二章 特殊结构的长难句分析/第三节 平行结构.md",
-    "生词本/archaeological.md",
     "生词本/collate.md",
-    "生词本/lactose.md",
+    "生词本/domestication.md",
     "生词本/genomics.md",
-    "生词本/potsherd.md"
+    "生词本/lactase.md",
+    "生词本/induce.md",
+    "生词本/lactose.md",
+    "生词本/microbe.md"
   ]
 }
